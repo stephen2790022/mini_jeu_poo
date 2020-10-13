@@ -1,6 +1,6 @@
 # mini_jeu_poo
 
-Projet made with Love by Stephen Toulouse 
+Project made with Love by Stephen Toulouse 
 
 Objet du projet
 Développer un Mini jeu - il veulent tous ta POO
