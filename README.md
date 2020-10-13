@@ -8,7 +8,7 @@ Développer un Mini jeu - il veulent tous ta POO
 Pré-requis
 Le repo est dispo là. Pour installer, faire un
 
-git clone 
+git clone https://github.com/stephen2790022/mini_jeu_poo.git
 
 ou télécharger un ZIP:
 
