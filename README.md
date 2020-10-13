@@ -1,6 +1,6 @@
 # mini_jeu_poo
-Projet THP Semaine 3 Jour 2 : let's GO OOP
-Projet made with Love by Alexandre Labonne (@Lab's) et Brice Jones (@brice)
+
+Projet made with Love by Stephen Toulouse 
 
 Objet du projet
 Développer un Mini jeu - il veulent tous ta POO
@@ -8,11 +8,11 @@ Développer un Mini jeu - il veulent tous ta POO
 Pré-requis
 Le repo est dispo là. Pour installer, faire un
 
-git clone git@github.com:notmoebius/Sem3J2.git
+git clone 
 
 ou télécharger un ZIP:
 
-https://github.com/notmoebius/Sem3J2/archive/master.zip
+https://github.com/stephen2790022/mini_jeu_poo/archive/master.zip
 
 PS: avant de lancer ruby app.rb, penser à faire bundle install si nécessaire.
 
@@ -34,4 +34,6 @@ dans le dossier par défaut, lancer :
 
 $ ruby app3.rb
 Là, tu joues contre 4 ennemis, plus fort, plus nombreux !! Penses à recharger en point de vie pour faire face au nombre.
+
+PS: A mort les testes ^^
 
